@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\SmartAgent.Services.dll.config
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\SmartAgent.Services.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\SmartAgent.Services.pdb
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\SmartAgent.Model.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\System.Linq.Dynamic.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\SmartAgent.Model.pdb
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\SmartAgent.Model.dll.config
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\obj\Debug\SmartAgent.Services.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\obj\Debug\SmartAgent.Services.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\obj\Debug\SmartAgent.Services.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Services\obj\Debug\SmartAgent.Services.pdb

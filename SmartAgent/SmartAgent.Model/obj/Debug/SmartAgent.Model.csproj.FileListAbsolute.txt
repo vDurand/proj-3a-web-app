@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\SmartAgent.Model.dll.config
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\SmartAgent.Model.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\SmartAgent.Model.pdb
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\fr\EntityFramework.resources.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\obj\Debug\SmartAgent.Model.Migrations.init.resources
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\obj\Debug\SmartAgent.Model.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\obj\Debug\SmartAgent.Model.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\obj\Debug\SmartAgent.Model.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\SmartAgent.Model\obj\Debug\SmartAgent.Model.pdb

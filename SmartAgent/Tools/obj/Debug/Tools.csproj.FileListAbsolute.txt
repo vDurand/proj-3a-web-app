@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\Tools\bin\Debug\Tools.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\Tools\bin\Debug\Tools.pdb
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\Tools\obj\Debug\Tools.dll
+\\Mac\Home\Documents\Ensicaen_Projects\web-app-3a\GitVersion\SmartAgent\Tools\obj\Debug\Tools.pdb

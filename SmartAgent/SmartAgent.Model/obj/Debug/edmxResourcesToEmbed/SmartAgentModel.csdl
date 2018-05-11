@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SmartAgentDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SmartAgentDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Agents" EntityType="SmartAgentDbModel.Agent" />
+    <EntitySet Name="Tasks" EntityType="SmartAgentDbModel.Task" />
+    <AssociationSet Name="AgentTask" Association="SmartAgentDbModel.AgentTask">
+      <End Role="Agent" EntitySet="Agents" />
+      <End Role="Task" EntitySet="Tasks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Agent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Unicode="true" FixedLength="false" MaxLength="Max">
+      <Documentation>
+        <Summary>Le prénom de l'agent</Summary>
+      </Documentation>
+    </Property>
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="255" Unicode="true" FixedLength="false" />
+    <Property Name="BirthDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="ReportedTasks" Relationship="SmartAgentDbModel.AgentTask" FromRole="Agent" ToRole="Task" />
+    <Property Name="Job" Type="String" Unicode="true" FixedLength="false" MaxLength="Max" />
+    <Property Name="Company" Type="String" Unicode="true" FixedLength="false" MaxLength="Max" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Label" Type="String" Unicode="true" FixedLength="false" MaxLength="Max" />
+    <NavigationProperty Name="Author" Relationship="SmartAgentDbModel.AgentTask" FromRole="Task" ToRole="Agent" />
+    <Property Name="Priority" Type="String" Unicode="true" FixedLength="false" MaxLength="Max" />
+    <Property Name="Location" Type="String" Unicode="true" FixedLength="false" MaxLength="Max" />
+  </EntityType>
+  <Association Name="AgentTask">
+    <End Type="SmartAgentDbModel.Agent" Role="Agent" Multiplicity="1" />
+    <End Type="SmartAgentDbModel.Task" Role="Task" Multiplicity="*" />
+  </Association>
+</Schema>
